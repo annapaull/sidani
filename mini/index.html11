@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Olaria</title>
+		<style>
+			h1{
+				text-align: center;
+			}
+			h2{
+				text-align: center;
+			}
+	        p{
+	        	text-align: center;
+	        	/*width: 30%; */
+	        }
+	        img{
+	        	width: 30%;
+	        }
+		</style>
+	</head>
+	<body>
+		<header>
+			<h1>Olaria (Bairro do Rio de Janeiro)</h1>
+		</header>
+		<main>
+			<section>
+				<p>Olaria é um bairro da Zona da Leopoldina na Zona Norte do município do Rio de Janeiro, no Brasil. Com a sua origem populacional basicamente de imigrantes Portugueses e em menor quantidade Italianos. Faz limite com os bairros da Penha, do Complexo do Alemão e de Ramos.Seu índice de desenvolvimento humano no ano 2000 era de 0,853: o 52º melhor da cidade do Rio de Janeiro. Suas ruas possuem, em geral, caráter estritamente residencial. Possui casas e prédios de bom padrão, também o estádio da Rua Bariri, que pertence ao Olaria Atlético Clube.</p>
+				<p>Está localizada, no bairro, a sede do Fórum Regional da Leopoldina, que, em 2011, inaugurou o seu novo prédio na rua Filomena Nunes, próximo ao estádio do Olaria.</p>
+				<h2>História</h2>
+				<p>A origem do nome Olaria deu-se em virtude dos senhores de engenho, que mantinham, no local, inúmeros desses fornos, sendo a primeira olaria construída em 1821 por iniciativa da família Ferreira, aproveitando a abundância de barro oriundo do Morro do Alemão, pertencente àquela época à dita família.</p>
+				<p>Com a implantação da estrada de ferro, iniciada em 1882, e das primeiras paradas (Olaria, Bonsucesso e Ramos), ficou evidente que o negócio prosperaria. Por volta de 1886, o progresso no local foi marcado pelo apito da locomotiva de ferro da Estrada de Ferro do Norte.</p>
+				<p>As olarias primitivas tornaram-se potências econômicas que caracterizavam o bairro. Destacamos a mais importante fábrica, que foi construída na Estrada da Penha, mais tarde denominada Democráticos, e hoje Rua Uranos. Outra importante cerâmica, também na Rua Uranos, foi a da firma de Bernardo de Mello e Custódio Ornellas, conforme citação de Jorge Raed, de família pioneira de Olaria e estudioso da história do bairro e de Olaria.</p>
+				<p>A tradição manteve-se na linguagem popular: a localidade primitiva passou a ser conhecida como "Olaria", conservando-se até os nossos dias, apesar de a estação alterar seu nome para "Pedro Ernesto". Porém, a ideia não vingou, mantendo-se o primitivo e pitoresco nome do local de "Olaria".</p>
+				<p>A construção da Avenida Brasil, durante a administração do prefeito Henrique Dodsworth, determinou a integração definitiva do bairro de Olaria à cidade, sendo que esse traçado acabou destruindo importantes vestígios da história preexistente do bairro. A Estação de Trem de Olaria chamava-se "Pedro Ernesto". A Estrada Engenho da Pedra ganhou esse nome por causa de uma fábrica de tijolos: por isso, o bairro ganhou o nome de Olaria.</p>
+				<img src="http://www.rioquepassou.com.br/andredecourt/wp-content/imagens/E-Ramos-2.jpg">
+			</section>
+		</main>
+	</body>
+</html>
